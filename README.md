@@ -1,6 +1,10 @@
 [![](avatar.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DeadEye</h1>
-<h3 align="center">Hello, my name is Jhim but you can just call me DeadEye, and I'm a student hoping to become a software developer. I'm now pursuing an information technology degree, and I've always been enthralled by the seemingly limitless possibilities of programming. I'm eager to learn more about the various ways software development may be used to better our world, from developing websites to producing Windows applications to creating mobile apps. I am eager to learn the skills and knowledge required to develop software professionally, and I am looking forward to where this path will lead me.</h3>
+<p align="center">
+  <samp>
+  Hello, my name is Jhim but you can just call me DeadEye, and I'm a student hoping to become a software developer. I'm now pursuing an information technology degree, and I've always been enthralled by the seemingly limitless possibilities of programming. I'm eager to learn more about the various ways software development may be used to better our world, from developing websites to producing Windows applications to creating mobile apps. I am eager to learn the skills and knowledge required to develop software professionally, and I am looking forward to where this path will lead me.
+  </samp>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadeyeee&label=Profile%20views&color=0e75b6&style=flat" alt="deadeyeee" /> </p>
 
