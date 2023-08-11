@@ -16,7 +16,7 @@
   
 - 📫 How to reach me **jhimwel.prago@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uZT1ud5N3gznPgRz1ndJaha9W_67ndDd/view?usp=sharing](https://drive.google.com/file/d/1uZT1ud5N3gznPgRz1ndJaha9W_67ndDd/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bl14u2NTAFCIRWY_rqIsBPvVyLZX1Dc6/view?usp=sharing](https://drive.google.com/file/d/1bl14u2NTAFCIRWY_rqIsBPvVyLZX1Dc6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
