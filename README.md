@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DeadEye</h1>
 <p align="center">
   <samp>
-  Hello, my name is Jhim but you can just call me DeadEye, and I'm a student hoping to become a software developer. I'm now pursuing an information technology degree, and I've always been enthralled by the seemingly limitless possibilities of programming. I'm eager to learn more about the various ways software development may be used to better our world, from developing websites to producing Windows applications to creating mobile apps. I am eager to learn the skills and knowledge required to develop software professionally, and I am looking forward to where this path will lead me.
+  Hello there! I'm Jhimwel J. Prago, but you can just call me Jhim. I am from the Philippines and recently graduated from the University of the East, Manila, with a bachelor's Degree in Information Technology in July 2023. I am an open-minded and Diligent learner with quick adaptability, and I am also capable of working in a group or individual setting. As of now, my line of expertise lies in Software development and Web development. If you want to know more about me or are interested in hiring me, please feel free to email me at Jhimwel.Prago@gmail.com. I hope I didn't waste your time. Thank you so much, and have a great day!
   </samp>
 </p>
 
@@ -12,8 +12,8 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, Vue.js**
 
-- 👨‍💻 All of my projects are available at [Coming Soon!!!](Coming Soon!!!)
-
+- 👨‍💻 All of my projects are available at [https://jhimwels-portfolio-website.vercel.app/](https://jhimwels-portfolio-website.vercel.app/)
+  
 - 📫 How to reach me **jhimwel.prago@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uZT1ud5N3gznPgRz1ndJaha9W_67ndDd/view?usp=sharing](https://drive.google.com/file/d/1uZT1ud5N3gznPgRz1ndJaha9W_67ndDd/view?usp=sharing)
