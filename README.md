@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadeyeee&label=Profile%20views&color=0e75b6&style=flat" alt="deadeyeee" /> </p>
 
-- 🔭 I’m currently working on my **Internship**
+- 🔭 I’m currently looking for a **Job**
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, Vue.js**
+- 🌱 I’m currently learning **React.js, Node.js, Express.js**
 
 - 👨‍💻 All of my projects are available at [https://jhimwels-portfolio-website.vercel.app/](https://jhimwels-portfolio-website.vercel.app/)
   
